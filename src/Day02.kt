@@ -51,7 +51,7 @@ fun main() {
     //val testInput = readInput("Day02_test")
     //check(part1(testInput) == 1)
 
-    val input = readInput("Day02")
+    val input = readInput("day02input.txt")
     part1(input).println()
     part2(input).println()
 }
